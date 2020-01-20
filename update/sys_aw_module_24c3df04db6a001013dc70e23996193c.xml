@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module">
+    <sys_aw_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <content/>
+        <content_attrs/>
+        <content_component/>
+        <content_tag/>
+        <detail/>
+        <detail_attrs/>
+        <detail_component/>
+        <detail_tag/>
+        <hide_until_ready>true</hide_until_ready>
+        <icon>phone-outline</icon>
+        <id>cti</id>
+        <label>Phone</label>
+        <order>300</order>
+        <roles/>
+        <sys_class_name>sys_aw_module</sys_class_name>
+        <sys_created_by>faraz.hussain</sys_created_by>
+        <sys_created_on>2020-01-20 09:00:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>24c3df04db6a001013dc70e23996193c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cti</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CRM1" source="x_441042_crm1">bfd2d3c0db6a001013dc70e23996195d</sys_package>
+        <sys_policy/>
+        <sys_props/>
+        <sys_scope display_value="CRM1">bfd2d3c0db6a001013dc70e23996195d</sys_scope>
+        <sys_update_name>sys_aw_module_24c3df04db6a001013dc70e23996193c</sys_update_name>
+        <sys_updated_by>faraz.hussain</sys_updated_by>
+        <sys_updated_on>2020-01-20 09:00:38</sys_updated_on>
+        <toolbar_button display_value="Phone Button">e4c3df04db6a001013dc70e23996193c</toolbar_button>
+        <type>win</type>
+        <workspace_config display_value="CRM1">5fb31704db6a001013dc70e23996190c</workspace_config>
+    </sys_aw_module>
+    <sys_variable_value action="delete_multiple" query="document_key=24c3df04db6a001013dc70e23996193c"/>
+</record_update>

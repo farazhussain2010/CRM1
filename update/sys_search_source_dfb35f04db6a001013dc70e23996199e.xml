@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <name>End Customer Projects</name>
+        <source_table>x_441042_crm1_end_customer_project</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>faraz.hussain</sys_created_by>
+        <sys_created_on>2020-01-20 09:00:32</sys_created_on>
+        <sys_id>dfb35f04db6a001013dc70e23996199e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>End Customer Projects</sys_name>
+        <sys_package display_value="CRM1" source="x_441042_crm1">bfd2d3c0db6a001013dc70e23996195d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CRM1">bfd2d3c0db6a001013dc70e23996195d</sys_scope>
+        <sys_update_name>sys_search_source_dfb35f04db6a001013dc70e23996199e</sys_update_name>
+        <sys_updated_by>faraz.hussain</sys_updated_by>
+        <sys_updated_on>2020-01-20 09:00:32</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=dfb35f04db6a001013dc70e23996199e"/>
+</record_update>

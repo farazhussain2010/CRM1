@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>location</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>80</order>
+        <record_id_field/>
+        <screen display_value="Details">eed31344db6a001013dc70e2399619fc</screen>
+        <screen_data_item_table>x_441042_crm1_end_customer_project</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>faraz.hussain</sys_created_by>
+        <sys_created_on>2020-01-20 09:01:02</sys_created_on>
+        <sys_id>ead35344db6a001013dc70e23996192a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>location</sys_name>
+        <sys_package display_value="CRM1" source="x_441042_crm1">bfd2d3c0db6a001013dc70e23996195d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CRM1">bfd2d3c0db6a001013dc70e23996195d</sys_scope>
+        <sys_update_name>sys_sg_screen_field_ead35344db6a001013dc70e23996192a</sys_update_name>
+        <sys_updated_by>faraz.hussain</sys_updated_by>
+        <sys_updated_on>2020-01-20 09:01:02</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="delete_multiple" query="documentkey=ead35344db6a001013dc70e23996192a"/>
+</record_update>
